@@ -1,6 +1,0 @@
-tags:
-  - tag1
-languages:
-  - language1
-resources: 0
-parent_template: git@github.com:learn-co-curriculum/sinatra-restful-routes-lab.git

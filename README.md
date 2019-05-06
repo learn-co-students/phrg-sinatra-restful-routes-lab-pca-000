@@ -23,7 +23,6 @@ Instead of keeping all your recipes on index cards (just like your grandma did!)
 7. Add to the recipe show page a form that allows a user to delete a recipe. This form should submit to a controller action that deletes the entry from the database and redirects to the index page.
 
 ## Does this need an update?
+
 Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-restful-routes-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-restful-routes-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
-
-<p data-visibility='hidden'>PHRG Restful Routes Basic Lab</p>
